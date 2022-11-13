@@ -1,0 +1,48 @@
+1668318880896	geckodriver	INFO	Listening on 127.0.0.1:50981
+1668318881498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5GyFRh"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668318881977	Marionette	INFO	Marionette enabled
+1668318881981	Marionette	INFO	Listening on port 34133
+Read port: 34133
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:41751
+1668318882143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5GyFRh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41751/devtools/browser/980d5fc8-9e2b-4bc1-9b46-610332fe2e39
+JavaScript warning: https://store.storeimages.cdn-apple.com/4668/store.apple.com/shop/rs-external/rel/at.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668318898269	Marionette	INFO	Stopped listening on port 34133
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668318916892	geckodriver	INFO	Listening on 127.0.0.1:54503
+1668318917479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3K8v5o"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668318918122	Marionette	INFO	Marionette enabled
+1668318918125	Marionette	INFO	Listening on port 33269
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 33269
+WebDriver BiDi listening on ws://127.0.0.1:43213
+1668318918221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3K8v5o/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43213/devtools/browser/a45ff795-e1b4-4c3d-a815-b90f89856f3b
+JavaScript warning: https://store.storeimages.cdn-apple.com/4668/store.apple.com/shop/rs-external/rel/at.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668318931705	Marionette	INFO	Stopped listening on port 33269
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668318951100	geckodriver	INFO	Listening on 127.0.0.1:60547
+1668318951684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilez7pBlJ"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668318952380	Marionette	INFO	Marionette enabled
+1668318952383	Marionette	INFO	Listening on port 46471
+Read port: 46471
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:60837
+1668318952480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilez7pBlJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60837/devtools/browser/4de0a7f4-17fb-4f21-86a8-cfff7541184b
+JavaScript warning: https://store.storeimages.cdn-apple.com/4668/store.apple.com/shop/rs-external/rel/at.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668318977750	Marionette	INFO	Stopped listening on port 46471
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
